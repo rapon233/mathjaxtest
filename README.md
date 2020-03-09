@@ -1,0 +1,2 @@
+# mathjaxtest
+mathjax &amp; arithmatex
