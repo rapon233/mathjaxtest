@@ -3,6 +3,6 @@
 Inline1:$\Delta$    
 Inline2:\\(\Delta\\)    
 Block1   
-$$ \Delta $$
+$$ \Delta $$    
 Block2   
 \\[\Delta\\]
